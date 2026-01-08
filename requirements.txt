@@ -1,6 +1,7 @@
 torch
-gym
+gymnasium
 numpy
 pandas
 scikit-learn
 stable-baselines3
+shimmy
